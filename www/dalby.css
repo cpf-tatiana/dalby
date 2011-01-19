@@ -36,7 +36,7 @@ body			{ padding: 0 10% 0 10% ; font-family: 'Trebuchet MS', Verdana, Helvetica,
 body#login		{ padding: 0 15% 0 15% ; font-size: 62.5% }
 */
 
-body#question		{ font-size: small ; letter-spacing: .1em }
+body#question		{ font-size: large ; letter-spacing: .1em }
 
 body#question
 div
@@ -59,9 +59,9 @@ div.mnemonics ol li	{ list-style-type: decimal }
 
 .qt1 label		{ display: table-row ; height: 5ex ; border: solid thin black }
 
-fieldset		{ border: solid thin #ccc }
+fieldset		{ border: solid thin #eee }
 
-legend			{ font-weight: bold }
+legend			{  }
 
 /*
 form			{  font-size: 1.05em }
